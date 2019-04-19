@@ -1,0 +1,14 @@
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.deps.json
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.runtimeconfig.json
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.runtimeconfig.dev.json
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.dll
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineCLI.pdb
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.csprojAssemblyReference.cache
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.csproj.CoreCompileInputs.cache
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.AssemblyInfoInputs.cache
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.AssemblyInfo.cs
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.dll
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.pdb
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineBL.dll
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\bin\Debug\netcoreapp2.1\VendingMachineBL.pdb
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\VendingMachineCLI\obj\Debug\netcoreapp2.1\VendingMachineCLI.csproj.CopyComplete

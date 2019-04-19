@@ -1,0 +1,9 @@
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\bin\Debug\netcoreapp2.1\VendingMachineBL.deps.json
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\bin\Debug\netcoreapp2.1\VendingMachineBL.dll
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\bin\Debug\netcoreapp2.1\VendingMachineBL.pdb
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\obj\Debug\netcoreapp2.1\VendingMachineBL.csprojAssemblyReference.cache
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\obj\Debug\netcoreapp2.1\VendingMachineBL.csproj.CoreCompileInputs.cache
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\obj\Debug\netcoreapp2.1\VendingMachineBL.AssemblyInfoInputs.cache
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\obj\Debug\netcoreapp2.1\VendingMachineBL.AssemblyInfo.cs
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\obj\Debug\netcoreapp2.1\VendingMachineBL.dll
+C:\workspace\team\week-4-pair-exercises-c-team-2\19_Capstone\dotnet\CapstoneCL\obj\Debug\netcoreapp2.1\VendingMachineBL.pdb
